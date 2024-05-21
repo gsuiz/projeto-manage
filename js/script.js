@@ -71,7 +71,7 @@ const pass_ball = () => {
 
 setInterval(()=>{
     pass_witness(pass_ball)    
-},3000)
+},10000)
 
 const media2 = window.matchMedia("(min-width:700px) and (max-width:991px)")
 
